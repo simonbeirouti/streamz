@@ -1,0 +1,10 @@
+{
+  "bundle": {
+    "resources": [
+      "resources/THIRD_PARTY_NOTICES.md"
+    ],
+    "macOS": {
+      "minimumSystemVersion": "13.0"
+    }
+  }
+}
